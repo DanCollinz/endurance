@@ -2,6 +2,8 @@
 
 One Paragraph of project description goes here
 
+Thinking we could look at https://www.websitebuilder.com/ and see if there is some functionality we can pull out and create on our own. Maybe a really simple flow or a page. Logi sent me this link, I think its where his team works the most
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
